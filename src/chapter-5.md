@@ -1,5 +1,3 @@
-Chapter 5: Applications of AI for Personal Success
-==================================================
 
 Artificial intelligence (AI) has many potential applications for personal success. In this chapter, we will explore some of the ways in which AI can be used to improve time management, goal setting, and personal development.
 

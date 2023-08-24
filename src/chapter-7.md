@@ -1,5 +1,3 @@
-Chapter 7: Managing AI for Personal Success
-===========================================
 
 Managing artificial intelligence (AI) for personal success involves a deliberate and thoughtful approach to data management, transparency and accountability, and addressing potential bias. In this chapter, we will discuss strategies for managing AI for personal success.
 

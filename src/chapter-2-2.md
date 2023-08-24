@@ -1,5 +1,3 @@
-Types of AI
-========================================
 
 Artificial intelligence (AI) is a rapidly evolving field that has the potential to revolutionize many aspects of our lives, including personal success. In this chapter, we will explore the two main categories of AI: narrow or weak AI and general or strong AI.
 

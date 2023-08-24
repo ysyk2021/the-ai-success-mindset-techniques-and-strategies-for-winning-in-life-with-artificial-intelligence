@@ -1,5 +1,3 @@
-What is AI?
-========================================
 
 Artificial intelligence (AI) is a rapidly evolving field that has the potential to revolutionize many aspects of our lives, including personal success. In this chapter, we will explore what AI is and how it works.
 

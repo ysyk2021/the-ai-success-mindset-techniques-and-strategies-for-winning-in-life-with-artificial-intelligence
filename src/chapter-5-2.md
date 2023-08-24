@@ -1,5 +1,3 @@
-Goal Setting
-================================================================
 
 Artificial intelligence (AI) can be a powerful tool for goal setting, helping individuals identify, track, and achieve their goals in a more efficient and effective way. In this chapter, we will discuss some of the ways in which AI can be used for goal setting.
 
