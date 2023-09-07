@@ -12,3 +12,7 @@ Throughout the book, we'll emphasize the importance of ethical considerations wh
 In short, "The AI Success Mindset" is a comprehensive guidebook for anyone interested in using AI to achieve their personal and professional goals. Whether you're an entrepreneur, executive, or simply looking to stay ahead of the curve, this book will provide you with the knowledge and tools you need to thrive in the fast-paced world of AI and succeed in life.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
