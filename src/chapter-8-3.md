@@ -1,5 +1,4 @@
-Chapter: Preparing for the Future
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore strategies and techniques to prepare for the future in the field of artificial intelligence (AI). The rapid advancements and evolving landscape of AI necessitate proactive measures to stay ahead and thrive in a changing world. We delve into key areas to focus on when preparing for the future of AI.
 

@@ -1,5 +1,4 @@
-Chapter: Overcoming Resistance to Change
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the challenges associated with resistance to change in adopting artificial intelligence (AI) and cultivating an AI success mindset. We delve into techniques and strategies that can help individuals overcome resistance and embrace the transformative power of AI in their lives and careers.
 

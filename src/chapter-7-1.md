@@ -1,5 +1,4 @@
-Chapter: Data Management
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the critical aspect of data management in the context of artificial intelligence (AI). Effective data management strategies are essential for harnessing the power of AI and achieving success in various domains. We delve into techniques and best practices to ensure high-quality, relevant, and well-organized data.
 

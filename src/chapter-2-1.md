@@ -1,5 +1,4 @@
-Chapter: What is AI?
-====================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we dive into the fundamentals of artificial intelligence (AI) to develop a clear understanding of its concepts, capabilities, and applications. By exploring what AI is and how it works, we lay the groundwork for cultivating an AI success mindset.
 

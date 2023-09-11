@@ -1,5 +1,4 @@
-Chapter: Goal Setting
-=====================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the significance of goal setting in cultivating an AI success mindset. Setting clear and achievable goals is essential for driving motivation, focus, and progress in the context of artificial intelligence (AI). We delve into techniques and strategies to establish effective AI-related goals and work towards accomplishing them.
 

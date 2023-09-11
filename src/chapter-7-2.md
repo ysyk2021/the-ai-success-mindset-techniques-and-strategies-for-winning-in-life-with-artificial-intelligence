@@ -1,5 +1,4 @@
-Chapter: Ensuring Transparency and Accountability
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the importance of transparency and accountability in the context of artificial intelligence (AI). As AI technologies become more prevalent, it is crucial to establish practices that promote transparency, fairness, and responsible use. We delve into techniques and strategies to ensure transparency and accountability throughout the AI lifecycle.
 

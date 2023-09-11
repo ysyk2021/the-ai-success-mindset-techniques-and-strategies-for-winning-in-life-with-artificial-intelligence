@@ -1,5 +1,4 @@
-Chapter: How AI Works
-=====================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we dive into the inner workings of artificial intelligence (AI) systems to understand the underlying mechanisms and processes that enable AI to perform tasks and make decisions. By gaining insights into how AI works, we can develop a deeper understanding of its capabilities and harness its power effectively.
 

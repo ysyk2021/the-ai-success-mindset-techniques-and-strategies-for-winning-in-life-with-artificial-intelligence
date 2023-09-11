@@ -1,5 +1,4 @@
-Chapter: Legal Considerations
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the important legal considerations associated with the adoption and implementation of artificial intelligence (AI). Understanding and complying with legal requirements is crucial for cultivating an AI success mindset while ensuring ethical and responsible use of AI technologies.
 

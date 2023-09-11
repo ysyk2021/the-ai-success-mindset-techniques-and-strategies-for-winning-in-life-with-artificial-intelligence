@@ -1,5 +1,4 @@
-Chapter: Developing an AI Strategy
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the process of developing an effective artificial intelligence (AI) strategy to cultivate an AI success mindset. A well-defined AI strategy lays the foundation for leveraging AI technologies in a way that aligns with organizational goals and maximizes their impact.
 

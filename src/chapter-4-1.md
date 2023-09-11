@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the ethical considerations surrounding the adoption and application of artificial intelligence (AI) in various aspects of life. Understanding and addressing these ethical considerations are crucial for fostering responsible AI usage and cultivating an AI success mindset.
 
